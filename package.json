@@ -1,6 +1,6 @@
 {
   "name": "winters-nz-power-flow",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Power flow for Solar Systems",
   "scripts": {
     "build": "grafana-toolkit plugin:build",
