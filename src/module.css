@@ -1,0 +1,167 @@
+.status0 #solar-to-battery,
+.status0 #solar-to-grid,
+.status0 #grid-to-home,
+.status0 #battery-to-home,
+.status0 #grid-to-battery,
+.status0 #battery-to-grid {
+  opacity: 0;
+}
+
+.status1 #solar-to-grid,
+.status1 #grid-to-home,
+.status1 #battery-to-home,
+.status1 #grid-to-battery,
+.status1 #battery-to-grid {
+  opacity: 0;
+}
+
+.status2 #grid-to-home,
+.status2 #battery-to-home,
+.status2 #grid-to-battery,
+.status2 #battery-to-grid {
+  opacity: 0;
+}
+
+.status3 #solar-to-grid,
+.status3 #solar-to-home,
+.status3 #battery-to-home,
+.status3 #battery-to-grid {
+  opacity: 0;
+}
+
+.status4 #solar-to-home,
+.status4 #solar-to-battery,
+.status4 #solar-to-grid,
+.status4 #battery-to-home,
+.status4 #battery-to-grid {
+  opacity: 0;
+}
+
+.status5 #solar-to-home,
+.status5 #solar-to-battery,
+.status5 #solar-to-grid,
+.status5 #battery-to-home,
+.status5 #grid-to-battery,
+.status5 #battery-to-grid {
+  opacity: 0;
+}
+
+.status6 #solar-to-battery,
+.status6 #solar-to-grid,
+.status6 #grid-to-home,
+.status6 #grid-to-battery,
+.status6 #battery-to-grid {
+  opacity: 0;
+}
+
+.status7 #solar-to-battery,
+.status7 #solar-to-grid,
+.status7 #grid-to-battery,
+.status7 #battery-to-grid {
+  opacity: 0;
+}
+
+.status8 #grid-to-home,
+.status8 #solar-to-home,
+.status8 #grid-to-battery,
+.status8 #solar-to-battery,
+.status8 #solar-to-grid,
+.status8 #battery-to-grid {
+  opacity: 0;
+}
+
+.status9 #solar-to-home,
+.status9 #grid-to-battery,
+.status9 #solar-to-battery,
+.status9 #solar-to-grid,
+.status9 #battery-to-grid {
+  opacity: 0;
+}
+
+.status10 #solar-to-home,
+.status10 #solar-to-battery,
+.status10 #solar-to-grid,
+.status10 #grid-to-home,
+.status10 #grid-to-battery {
+  opacity: 0;
+}
+
+.status11 #solar-to-battery,
+.status11 #grid-to-battery,
+.status11 #battery-to-grid,
+.status11 #grid-to-home,
+.status11 #battery-to-home {
+  opacity: 0;
+}
+
+.status12 #solar-to-battery,
+.status12 #solar-to-grid,
+.status12 #battery-to-grid,
+.status12 #battery-to-home {
+  opacity: 0;
+}
+
+.status13 #battery-to-home,
+.status13 #solar-to-battery,
+.status13 #grid-to-home,
+.status13 #grid-to-battery {
+  opacity: 0;
+}
+
+.status14 #solar-to-home,
+.status14 #solar-to-battery,
+.status14 #grid-to-home,
+.status14 #grid-to-battery,
+.status14 #battery-to-grid,
+.status14 #battery-to-home {
+  opacity: 0;
+}
+
+.status15 #solar-to-home,
+.status15 #solar-to-grid,
+.status15 #grid-to-home,
+.status15 #grid-to-battery,
+.status15 #battery-to-grid,
+.status15 #battery-to-home {
+  opacity: 0;
+}
+
+.status16 #solar-to-home,
+.status16 #grid-to-home,
+.status16 #grid-to-battery,
+.status16 #battery-to-grid,
+.status16 #battery-to-home {
+  opacity: 0;
+}
+
+.status17 #solar-to-home,
+.status17 #solar-to-battery,
+.status17 #solar-to-grid,
+.status17 #grid-to-home,
+.status17 #battery-to-grid,
+.status17 #battery-to-home {
+  opacity: 0;
+}
+
+.status18 #solar-to-battery,
+.status18 #solar-to-grid,
+.status18 #grid-to-home,
+.status18 #battery-to-grid,
+.status18 #battery-to-home {
+  opacity: 0;
+}
+
+.status19 #solar-to-battery,
+.status19 #solar-to-grid,
+.status19 #grid-to-battery,
+.status19 #battery-to-grid,
+.status19 #battery-to-home {
+  opacity: 0;
+}
+
+.status20 #solar-to-battery,
+.status20 #grid-to-battery,
+.status20 #grid-to-home,
+.status20 #battery-to-grid {
+  opacity: 0;
+}
