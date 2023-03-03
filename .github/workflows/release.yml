@@ -74,7 +74,7 @@ jobs:
           args: buildAll
 
       - name: Sign plugin
-        run: yarn sign
+        run: yarn sign --rootUrls https://grafana.winters.org.nz
         env:
           GRAFANA_API_KEY: ${{ secrets.GRAFANA_API_KEY }} # Requires a Grafana API key from Grafana.com.
 

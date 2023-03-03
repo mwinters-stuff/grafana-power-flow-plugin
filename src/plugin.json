@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
   "type": "panel",
   "name": "power-flow",
-  "id": "winters-nz-power-flow",
+  "id": "power-flow-panel",
   "info": {
     "description": "Power flow for Solar Systems",
     "author": {
