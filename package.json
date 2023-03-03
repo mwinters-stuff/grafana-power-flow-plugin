@@ -1,6 +1,6 @@
 {
-  "name": "winters-nz-power-flow",
-  "version": "0.0.4",
+  "name": "power-flow-panel",
+  "version": "0.0.6",
   "description": "Power flow for Solar Systems",
   "scripts": {
     "build": "webpack -c ./.config/webpack/webpack.config.ts --env production",
