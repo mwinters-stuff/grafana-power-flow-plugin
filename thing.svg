@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="340"
+   height="340"
+   viewBox="0 0 340 340"
+   version="1.1"
+   id="svg122"
+   sodipodi:docname="thing.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs126">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7364">
+      <stop
+         style="stop-color:#204d79;stop-opacity:1;"
+         offset="0"
+         id="stop7360" />
+      <stop
+         style="stop-color:#204d79;stop-opacity:1;"
+         offset="1"
+         id="stop7362" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="marker6332"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow4"
+       markerWidth="5"
+       markerHeight="6"
+       viewBox="0 0 5 6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path6330" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow4"
+       markerWidth="5"
+       markerHeight="6"
+       viewBox="0 0 5 6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path1741" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Sketch"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Sketch"
+       markerWidth="7.5655539"
+       markerHeight="6.73647781"
+       viewBox="0 0 7.5655539 6.73647781"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:0.4;stroke-linecap:round"
+         d="m -4.5421538,-3.2452189 3.83900644,2.60235235 0.56348102,0.59255887 L -2.4921466,1.1808717 -4.4106004,2.139946 -4.5795251,2.8245356 -4.703996,3.0734773 -4.3128019,2.6822832 -3.9749524,2.3088707 0.66603196,-0.12720162 0.02589622,-0.32279868 -1.7613224,-0.60366199 -3.580874,-2.0472634 -4.3186004,-2.392437 l -1.2937699,-0.2549423 2.1825172,0.042166 0.6996091,1.0554873 1.4406512,0.1145833 1.20879971,0.91674665 1.53333299,0.47138389 -1.85995289,1.23785256 -2.03832621,0.9224332 -1.5469949,0.9779853"
+         id="path22096"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient4353"
+       gradientUnits="userSpaceOnUse"
+       x="0"
+       y="-4.0282912">
+      <meshrow
+         id="meshrow4355">
+        <meshpatch
+           id="meshpatch4357">
+          <stop
+             path="c 24.7079,0  49.4157,0  74.1236,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop4359" />
+          <stop
+             path="c 0,24.6761  0,49.3522  0,74.0283"
+             style="stop-color:#800080;stop-opacity:1"
+             id="stop4361" />
+          <stop
+             path="c -24.7079,0  -49.4157,0  -74.1236,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop4363" />
+          <stop
+             path="c 0,-24.6761  0,-49.3522  0,-74.0283"
+             style="stop-color:#800080;stop-opacity:1"
+             id="stop4365" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7364"
+       id="linearGradient7366"
+       x1="-8.9533528"
+       y1="4.7667638"
+       x2="161.76968"
+       y2="4.7667638"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview124"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="5.3726542"
+     inkscape:cx="180.26472"
+     inkscape:cy="137.82759"
+     inkscape:window-width="3770"
+     inkscape:window-height="2096"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="flowchart" />
+  <g
+     id="Page-1"
+     stroke="none"
+     strokeWidth="1"
+     fill="none"
+     fillRule="evenodd">
+    <g
+       id="flowchart"
+       transform="translate(2,2)">
+      <g
+         id="grid-to-battery"
+         transform="matrix(-0.98960294,0,0,1,243.61374,163.23324)"
+         style="stroke:#97a5a7;stroke-opacity:1">
+        <path
+           id="battery-to-grid-line-3"
+           d="M 157.76968,4.7667638 H -7.9533528"
+           stroke="#97bd3f"
+           strokeWidth="2"
+           strokeLinecap="square"
+           style="stroke:#97a5a7;stroke-opacity:1;marker-start:url(#marker6332);marker-mid:url(#marker6332);marker-end:url(#marker6332)" />
+      </g>
+      <g
+         id="battery-to-grid"
+         transform="matrix(0.98960294,0,0,1,92.394034,163.23324)">
+        <path
+           id="battery-to-grid-line"
+           d="M 157.75396,4.7667638 H -7.9690709"
+           stroke="#97bd3f"
+           strokeWidth="2"
+           strokeLinecap="square"
+           style="stroke-width:1.00524;stroke-dasharray:none;marker-start:url(#marker6332);marker-mid:url(#marker6332);marker-end:url(#marker6332)" />
+      </g>
+      <g
+         id="g28"
+         transform="matrix(0.99451401,0,0,0.99451477,-1.502743,131.49725)">
+        <circle
+           id="Oval"
+           stroke="#97a5a7"
+           strokeWidth="2.28804665"
+           cx="36.704082"
+           cy="36.704082"
+           r="36.704082" />
+        <g
+           id="iconbig/wind/blue"
+           transform="translate(12.393586,13.346939)"
+           fillRule="evenodd"
+           stroke="#97a5a7"
+           strokeLinecap="round"
+           strokeWidth="1">
+          <g
+             id="grid"
+             transform="translate(12.584257,2.478717)">
+            <g
+               id="Group"
+               strokeWidth="0.762682216">
+              <path
+                 d="M 0.04884433,12.568531 H 22.9985"
+                 id="Line-2" />
+              <path
+                 d="M 0.04884433,21.041722 H 22.9985"
+                 id="Line-2_1_" />
+              <path
+                 d="M 7.9716911,26.768805 8.9532806,9.3239992"
+                 id="Line-2_3_" />
+              <path
+                 d="M 0.04249126,12.52753 8.9532806,9.3239992"
+                 id="Line-2_4_" />
+              <path
+                 d="M 14.079047,9.5392349 22.9985,12.565826"
+                 id="Line-2_5_" />
+              <path
+                 d="M 14.716994,17.388317 22.998582,21.0391"
+                 id="Line-2_6_" />
+              <path
+                 d="M 0.04884433,21.0391 8.4625271,17.464908"
+                 id="Line-2_7_" />
+              <path
+                 d="M 13.935237,9.3239992 12.057453,0.05333126"
+                 id="Line-2_8_" />
+              <path
+                 d="M 8.9532806,9.3239992 11.964797,0.05075608"
+                 id="Line-2_9_" />
+              <path
+                 d="m 4.244506,35.397088 14.27954,-0.11256"
+                 id="Line-2_10_" />
+              <path
+                 d="M 8.4624446,17.46965 14.716911,17.38882"
+                 id="Line-2_11_" />
+              <path
+                 d="M 7.9631929,26.770964 15.354858,26.665631"
+                 id="Line-2_12_" />
+              <path
+                 d="m 8.9532806,9.2567917 4.9819564,0.071625"
+                 id="Line-2_13_" />
+              <path
+                 d="M 0.69619667,42.720501 7.9631929,26.768888"
+                 id="Line-2_14_" />
+              <path
+                 d="M 0.69619667,43.100797 7.9631929,35.397171"
+                 id="Line-2_15_" />
+              <path
+                 d="M 21.586635,42.944708 13.935237,35.62819"
+                 id="Line-2_16_" />
+              <path
+                 d="m 15.354858,26.665631 6.351577,16.322523"
+                 id="Line-2_17_" />
+            </g>
+            <path
+               d="M 15.346359,26.72095 14.114861,9.5702695"
+               id="Line-2_2_"
+               strokeWidth="0.762682216" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="home"
+         transform="matrix(1.0206712,0,0,1.0206681,130.5372,263.53735)">
+        <circle
+           id="circle30"
+           stroke="#009cbf"
+           strokeWidth="2"
+           cx="36.704082"
+           cy="36.704082"
+           r="35.750729" />
+        <g
+           id="iconbig/house/blue"
+           transform="translate(12.393586,8.580175)"
+           fill="#0b9cbd"
+           fillRule="evenodd"
+           strokeWidth="1">
+          <g
+             id="Group-11"
+             transform="translate(6.387464,9.152187)"
+             fillOpacity="0.3">
+            <polygon
+               id="Fill-1"
+               points="19.435588,1.2323563 0.35759728,13.438956 0.08100871,11.436108 17.861845,0.059377151 " />
+            <polygon
+               id="Fill-3"
+               points="19.950651,35.369415 23.260645,35.369415 23.260645,23.380549 29.744606,23.380549 29.744606,21.619678 21.75564,21.619678 20.350026,21.619678 19.950651,21.619678 " />
+            <polygon
+               id="Fill-5"
+               points="6.2938862,17.482519 15.779151,17.482519 15.779151,13.439011 6.2938862,13.439011 " />
+            <polygon
+               id="Fill-7"
+               points="20.104996,17.50649 29.590261,17.50649 29.590261,14.835332 20.104996,14.835332 " />
+            <polygon
+               id="Fill-9"
+               points="6.1395407,29.702235 15.624806,29.702235 15.624806,21.619651 6.1395407,21.619651 " />
+          </g>
+          <g
+             id="Group-25"
+             transform="translate(1.239359,2.288047)">
+            <path
+               d="m 11.511735,23.976518 h 9.064358 v -3.347664 h -9.064358 z m 0,-4.071484 h 9.064358 v -1.900026 h -9.064358 z m 9.426932,-2.623845 H 11.14916 c -0.200231,0 -0.362574,0.162045 -0.362574,0.361909 v 6.69533 c 0,0.199865 0.162343,0.36191 0.362574,0.36191 h 9.789507 c 0.200232,0 0.362574,-0.162045 0.362574,-0.36191 v -6.69533 c 0,-0.199864 -0.162342,-0.361909 -0.362574,-0.361909 z"
+               id="Fill-12" />
+            <path
+               d="m 25.470846,23.976518 h 9.064358 v -1.900026 h -9.064358 z m 0,-2.623845 h 9.064358 v -3.347665 h -9.064358 z m 9.426932,-4.071484 h -9.789506 c -0.200232,0 -0.362575,0.162045 -0.362575,0.361909 v 6.69533 c 0,0.199865 0.162343,0.36191 0.362575,0.36191 h 9.789506 c 0.200232,0 0.362575,-0.162045 0.362575,-0.36191 v -6.69533 c 0,-0.199864 -0.162343,-0.361909 -0.362575,-0.361909 z"
+               id="Fill-14" />
+            <path
+               d="m 16.406488,36.371926 h 4.169605 v -3.438142 h -4.169605 z m -4.894753,0 h 4.169604 v -3.438142 h -4.169604 z m 0,-4.161962 h 4.169604 V 28.8623 h -4.169604 z m 4.894753,0 h 4.169605 V 28.8623 H 16.406488 Z M 20.938667,28.13848 H 11.14916 c -0.200231,0 -0.362574,0.162045 -0.362574,0.36191 v 8.233446 c 0,0.199865 0.162343,0.36191 0.362574,0.36191 h 9.789507 c 0.200232,0 0.362574,-0.162045 0.362574,-0.36191 V 28.50039 c 0,-0.199865 -0.162342,-0.36191 -0.362574,-0.36191 z"
+               id="Fill-15" />
+            <polygon
+               id="Fill-16"
+               points="42.133946,13.423295 27.001635,3.673085 27.394847,3.0650767 42.527158,12.815196 " />
+            <path
+               d="m 44.415354,39.900546 h 0.906436 v -3.257188 h -0.906436 z m -1.631584,0 h 0.906436 V 36.643358 H 42.78377 Z m -1.631585,0 h 0.906436 V 36.643358 H 41.152185 Z M 23.220982,6.5335561 c -0.120194,-0.077901 -0.274832,-0.077901 -0.395025,0 L 3.1491393,19.288431 C 2.5202541,19.695941 1.6765437,19.516705 1.268285,18.889335 0.85993565,18.261783 1.0394099,17.419619 1.6681138,17.012018 L 23.023469,3.1691529 44.378825,17.012018 c 0.302931,0.196427 0.511502,0.500612 0.58737,0.85646 0.07578,0.355848 0.0092,0.718391 -0.187632,1.020857 -0.196787,0.302466 -0.50144,0.510654 -0.858032,0.586293 -0.356501,0.07573 -0.71971,0.0091 -1.022732,-0.187197 z M 40.427037,41.891049 H 35.260353 V 28.50039 c 0,-0.199865 -0.162343,-0.36191 -0.362575,-0.36191 h -9.789506 c -0.200232,0 -0.362575,0.162045 -0.362575,0.36191 V 41.891049 H 23.023469 5.619902 V 18.549863 L 23.023469,7.2685947 40.427037,18.549863 Z m -14.956191,0 h 9.064358 V 28.8623 H 25.470846 Z M 3.9883175,39.900546 H 4.8947533 V 36.643358 H 3.9883175 Z m -1.6315844,0 H 3.2631689 V 36.643358 H 2.3567331 Z m -1.63158446,0 H 1.6315844 V 36.643358 H 0.72514864 Z M 45.684364,34.200468 c -0.200231,0 -0.362574,0.162045 -0.362574,0.36191 v 1.357161 h -0.906436 v -1.357161 c 0,-0.199865 -0.162342,-0.36191 -0.362574,-0.36191 -0.200232,0 -0.362574,0.162045 -0.362574,0.36191 v 1.357161 H 42.78377 v -1.357161 c 0,-0.199865 -0.162343,-0.36191 -0.362574,-0.36191 -0.200232,0 -0.362575,0.162045 -0.362575,0.36191 v 1.357161 H 41.152185 V 19.019894 l 1.35059,0.87555 c 0.964266,0.624927 2.257931,0.350509 2.884007,-0.611899 0.626075,-0.962318 0.351062,-2.253612 -0.613023,-2.87854 L 23.220982,2.4341143 c -0.120194,-0.077992 -0.274832,-0.077992 -0.395025,0 L 1.2731797,16.405005 c -0.96408509,0.624928 -1.23909771,1.916222 -0.61302251,2.87854 0.39901301,0.613165 1.06877841,0.947117 1.75177781,0.947027 0.3889516,0 0.7823448,-0.108301 1.132229,-0.335128 l 1.3505893,-0.87555 V 35.919539 H 3.9883175 v -1.357161 c 0,-0.199865 -0.1623426,-0.36191 -0.3625743,-0.36191 -0.2002317,0 -0.3625743,0.162045 -0.3625743,0.36191 v 1.357161 H 2.3567331 v -1.357161 c 0,-0.199865 -0.1623427,-0.36191 -0.3625743,-0.36191 -0.2002317,0 -0.3625744,0.162045 -0.3625744,0.36191 v 1.357161 H 0.72514864 v -1.357161 c 0,-0.199865 -0.16234265,-0.36191 -0.36257432,-0.36191 C 0.16234265,34.200468 0,34.362513 0,34.562378 v 7.690581 c 0,0.199865 0.16234265,0.36191 0.36257432,0.36191 0.20023167,0 0.36257432,-0.162045 0.36257432,-0.36191 V 40.624365 H 1.6315844 v 1.628594 c 0,0.199865 0.1623427,0.36191 0.3625744,0.36191 0.2002316,0 0.3625743,-0.162045 0.3625743,-0.36191 v -1.628594 h 0.9064358 v 1.628594 c 0,0.199865 0.1623426,0.36191 0.3625743,0.36191 0.2002317,0 0.3625743,-0.162045 0.3625743,-0.36191 v -1.628594 h 0.9064358 v 1.990504 h 18.1287157 2.084803 9.789506 6.254407 v -1.990504 h 0.906436 v 1.628594 c 0,0.199865 0.162343,0.36191 0.362575,0.36191 0.200231,0 0.362574,-0.162045 0.362574,-0.36191 v -1.628594 h 0.906436 v 1.628594 c 0,0.199865 0.162342,0.36191 0.362574,0.36191 0.200232,0 0.362574,-0.162045 0.362574,-0.36191 v -1.628594 h 0.906436 v 1.628594 c 0,0.199865 0.162343,0.36191 0.362574,0.36191 0.200232,0 0.362575,-0.162045 0.362575,-0.36191 v -7.690581 c 0,-0.199865 -0.162343,-0.36191 -0.362575,-0.36191 z"
+               id="Fill-17" />
+            <path
+               d="m 29.548384,3.3957627 c -0.06699,0 -0.134878,-0.018548 -0.195518,-0.057453 C 29.184359,3.2303699 29.135412,3.0064383 29.24364,2.8382407 l 1.663491,-2.58684012 c 0.108138,-0.1679261 0.332572,-0.21705535 0.501078,-0.1090253 0.168416,0.10793957 0.217363,0.33187121 0.109226,0.50006875 L 29.853853,3.2292842 c -0.06925,0.1076681 -0.186182,0.1664785 -0.305469,0.1664785"
+               id="Fill-18" />
+            <path
+               d="m 32.041001,5.0635874 c -0.06771,0 -0.136147,-0.018819 -0.19715,-0.058448 C 31.675979,4.8962946 31.62821,4.672182 31.737254,4.5045273 l 1.003515,-1.5423687 c 0.108954,-0.1675642 0.333659,-0.2151553 0.501531,-0.106311 0.167872,0.1088444 0.215641,0.332957 0.106597,0.5006117 L 32.345382,4.898828 c -0.06934,0.1066729 -0.185638,0.1647594 -0.304381,0.1647594"
+               id="Fill-19" />
+            <path
+               d="m 34.414811,6.544531 c -0.06699,0 -0.134877,-0.018548 -0.195518,-0.057453 C 34.050787,6.3791382 34.001839,6.1552066 34.110068,5.9870091 l 1.6634,-2.5867497 c 0.108228,-0.1679261 0.332571,-0.2170554 0.501078,-0.1090253 0.168415,0.1079395 0.217363,0.3318712 0.109225,0.5000687 L 34.72028,6.3780525 C 34.651028,6.4857206 34.534098,6.544531 34.414811,6.544531"
+               id="Fill-20" />
+            <path
+               d="m 36.922738,8.188153 c -0.06771,0 -0.136147,-0.018819 -0.19715,-0.058448 C 36.557716,8.0208602 36.509947,7.7967476 36.618991,7.629093 l 1.003515,-1.5423688 c 0.108954,-0.1675642 0.33375,-0.2151553 0.501531,-0.1063109 0.167872,0.1088443 0.215641,0.3329569 0.106597,0.5006116 L 37.227119,8.0233936 C 37.157777,8.1300665 37.041481,8.188153 36.922738,8.188153"
+               id="Fill-21" />
+            <path
+               d="m 39.281157,9.6933988 c -0.06699,0 -0.134878,-0.018548 -0.195518,-0.057453 C 38.917132,9.5280061 38.868185,9.3040745 38.976413,9.1358769 l 1.663491,-2.5868402 c 0.108229,-0.1680165 0.332481,-0.2170553 0.501078,-0.1090253 0.168416,0.1079396 0.217363,0.3318713 0.109225,0.5000688 l -1.663581,2.5868401 c -0.06925,0.1076682 -0.186182,0.1664785 -0.305469,0.1664785"
+               id="Fill-22" />
+            <path
+               d="m 41.804484,11.312628 c -0.06771,0 -0.136147,-0.01882 -0.19715,-0.05845 -0.167872,-0.108845 -0.215641,-0.332957 -0.106597,-0.500612 l 1.003515,-1.5423686 c 0.109044,-0.1674737 0.33375,-0.2152458 0.501531,-0.106311 0.167872,0.1088443 0.215641,0.3329569 0.106597,0.5006116 l -1.003515,1.542369 c -0.06934,0.106673 -0.185638,0.164759 -0.304381,0.164759"
+               id="Fill-23" />
+            <path
+               d="m 34.135094,36.855184 c 0,0.316852 -0.257337,0.573718 -0.574771,0.573718 -0.317434,0 -0.574771,-0.256866 -0.574771,-0.573718 0,-0.316852 0.257337,-0.573717 0.574771,-0.573717 0.317434,0 0.574771,0.256865 0.574771,0.573717"
+               id="Fill-24" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="solar"
+         transform="matrix(0.99451426,0,0,0.99451477,131.49727,-1.5027426)">
+        <g
+           id="iconbig/panels/blue"
+           transform="translate(12.393586,12.393586)"
+           fillRule="evenodd"
+           strokeWidth="1">
+          <g
+             id="Group-2"
+             transform="translate(4.099417,3.43207)">
+            <g
+               id="g63"
+               transform="translate(0,2.860058)"
+               fillRule="nonzero"
+               strokeWidth="0.762682216">
+              <path
+                 d="M 7.3280428,2.5506485 0.47580026,32.226399 14.10271,34.829852 21.647598,0.45714417 Z"
+                 id="Rectangle-17"
+                 stroke="#204d7b" />
+              <path
+                 d="M 10.632952,2.3738701 3.7887119,32.429709"
+                 id="Line-4"
+                 strokeOpacity="0.3"
+                 stroke="#97a5a7"
+                 strokeLinecap="square" />
+              <path
+                 d="M 18.001593,1.3502313 10.812271,33.709783"
+                 id="Line-4-Copy-2"
+                 strokeOpacity="0.3"
+                 stroke="#97a5a7"
+                 strokeLinecap="square" />
+              <path
+                 d="M 14.366965,1.8551476 7.3478563,33.078378"
+                 id="Line-4-Copy"
+                 strokeOpacity="0.3"
+                 stroke="#97a5a7"
+                 strokeLinecap="square" />
+              <path
+                 d="M 19.800874,9.3876605 5.4779155,10.245307 Z"
+                 id="path57"
+                 strokeOpacity="0.3"
+                 stroke="#97a5a7"
+                 strokeLinecap="square" />
+              <path
+                 d="M 16.145147,26.028278 2.1593162,24.635323 Z"
+                 id="path59"
+                 strokeOpacity="0.3"
+                 stroke="#97a5a7"
+                 strokeLinecap="square" />
+              <path
+                 d="M 17.947971,17.821946 3.7958858,17.538877 Z"
+                 id="path61"
+                 strokeOpacity="0.3"
+                 stroke="#97a5a7"
+                 strokeLinecap="square" />
+            </g>
+            <g
+               id="g79"
+               transform="translate(14.490962)"
+               fillRule="nonzero"
+               strokeWidth="0.762682216">
+              <path
+                 d="M 8.517854,2.9330582 0.46062348,37.852665 16.562791,40.93125 25.440507,0.45719098 Z"
+                 id="path65"
+                 stroke="#204d7b" />
+              <path
+                 d="M 12.43172,2.7431278 4.4235568,37.946601"
+                 id="path67"
+                 strokeOpacity="0.3"
+                 stroke="#97a5a7"
+                 strokeLinecap="square" />
+              <path
+                 d="M 21.126297,1.6001578 12.660525,39.622956"
+                 id="path69"
+                 strokeOpacity="0.3"
+                 stroke="#97a5a7"
+                 strokeLinecap="square" />
+              <path
+                 d="M 16.779009,2.2097418 8.618309,38.860976"
+                 id="path71"
+                 strokeOpacity="0.3"
+                 stroke="#97a5a7"
+                 strokeLinecap="square" />
+              <path
+                 d="M 23.185539,11.048709 6.4065306,12.039283 Z"
+                 id="path73"
+                 strokeOpacity="0.3"
+                 stroke="#97a5a7"
+                 strokeLinecap="square" />
+              <path
+                 d="M 18.914519,30.631593 2.5168513,28.955237 Z"
+                 id="path75"
+                 strokeOpacity="0.3"
+                 stroke="#97a5a7"
+                 strokeLinecap="square" />
+              <path
+                 d="M 20.973761,20.87825 4.4235568,20.573458 Z"
+                 id="path77"
+                 strokeOpacity="0.3"
+                 stroke="#97a5a7"
+                 strokeLinecap="square" />
+            </g>
+            <polyline
+               id="Path-15"
+               strokeOpacity="0.3"
+               stroke="#97a5a7"
+               strokeWidth="0.762682216"
+               fillRule="nonzero"
+               points="1.72415115 36.1822926 31.6909245 42.0250339 40.6740553 1.87348102" />
+          </g>
+        </g>
+        <circle
+           id="circle84"
+           stroke="#204d7b"
+           strokeWidth="2"
+           cx="36.704082"
+           cy="36.704082"
+           r="36.704082" />
+      </g>
+      <g
+         id="battery"
+         transform="matrix(0.94871371,0,0,-0.94872008,264.47469,204.52572)">
+        <circle
+           id="circle91"
+           stroke="#97bd3f"
+           strokeWidth="2"
+           cx="38.5"
+           cy="38.5"
+           r="38.5" />
+        <g
+           id="iconbig/battery/blue"
+           transform="translate(13,13)"
+           fillRule="evenodd"
+           strokeWidth="1">
+          <g
+             id="g96"
+             transform="translate(3.3,15.7)">
+            <path
+               d="M 44.3,5.5 H 41.8 V 2.3 C 41.8,1.250659 40.949341,0.4 39.9,0.4 H 2.3 C 1.250659,0.4 0.4,1.250659 0.4,2.3 v 15.2 c 0,1.049341 0.850659,1.9 1.9,1.9 h 37.6 c 1.049341,0 1.9,-0.850659 1.9,-1.9 v -3.1 h 2.5 c 0.110457,0 0.2,-0.08954 0.2,-0.2 V 5.7 c 0,-0.110457 -0.08954,-0.2 -0.2,-0.2 z"
+               id="Combined-Shape"
+               stroke="#97bd3f"
+               strokeWidth="0.8"
+               fillRule="nonzero" />
+            <path
+               d="m 28.281203,3.4 -6.062,13 h -8.410541 l 6.061999,-13 z m 3.089458,0 H 38.9 v 13 H 25.308662 Z m -14.589458,0 -6.061999,13 H 3.5 v -13 z"
+               id="path94"
+               fillOpacity="0.3"
+               fill="#97bd3f"
+               fillRule="nonzero" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="solar-to-home"
+         transform="matrix(0,-0.98960294,1,0,163.23324,243.61374)"
+         style="stroke:url(#linearGradient7366)">
+        <path
+           id="battery-to-grid-line-9"
+           d="M 157.76968,4.7667638 H -7.9533528"
+           stroke="#97bd3f"
+           strokeWidth="2"
+           strokeLinecap="square"
+           style="stroke:url(#linearGradient7366);stroke-opacity:1;marker-start:url(#marker6332);marker-mid:url(#marker6332);marker-end:url(#marker6332)" />
+      </g>
+      <g
+         id="grid-to-home"
+         transform="translate(87.525989,181.474)">
+        <path
+           id="grid-to-home-line"
+           d="M 0,0 H 60.008 C 65.526,0 70,4.485 70,9.992 V 70"
+           stroke="#97a5a7"
+           strokeWidth="2"
+           strokeLinecap="round"
+           strokeLinejoin="round"
+           style="marker-start:url(#marker6332);marker-mid:url(#marker6332);marker-end:url(#marker6332)" />
+      </g>
+      <g
+         id="solar-to-grid"
+         transform="rotate(90,33.500001,121.02599)">
+        <path
+           id="grid-to-home-line-2"
+           d="M 0,0 H 60.008 C 65.526,0 70,4.485 70,9.992 V 70"
+           stroke="#97a5a7"
+           strokeWidth="2"
+           strokeLinecap="round"
+           strokeLinejoin="round"
+           style="stroke:#204d7b;stroke-opacity:1;marker-start:url(#marker6332);marker-mid:url(#marker6332);marker-end:url(#marker6332)" />
+      </g>
+      <g
+         id="battery-to-home"
+         transform="matrix(-1,0,0,1,248.48697,181.474)"
+         style="stroke:#97bd3f;stroke-opacity:1">
+        <path
+           id="grid-to-home-line-3"
+           d="M 0,0 H 60.008 C 65.526,0 70,4.485 70,9.992 V 70"
+           stroke="#97a5a7"
+           strokeWidth="2"
+           strokeLinecap="round"
+           strokeLinejoin="round"
+           style="stroke:#97bd3f;stroke-opacity:1;marker-start:url(#marker6332);marker-mid:url(#marker6332);marker-end:url(#marker6332)" />
+      </g>
+      <g
+         id="solar-to-battery"
+         transform="matrix(0,1,1,0,181.48697,87.525989)"
+         style="stroke:url(#meshgradient4353);stroke-opacity:1">
+        <path
+           id="grid-to-home-line-2-6"
+           d="M 0,0 H 60.008 C 65.526,0 70,4.485 70,9.992 V 70"
+           stroke="#97a5a7"
+           strokeWidth="2"
+           strokeLinecap="round"
+           strokeLinejoin="round"
+           style="stroke:#204d79;stroke-opacity:1;marker-start:url(#Arrow4);marker-mid:url(#Arrow4);marker-end:url(#Arrow4)" />
+      </g>
+    </g>
+  </g>
+</svg>
